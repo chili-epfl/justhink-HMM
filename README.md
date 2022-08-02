@@ -8,9 +8,9 @@ We make use of our open-source [dataset](https://doi.org/10.5281/zenodo.5576058)
 states and gaze patterns for each team for time windows of 10 seconds in a non-incremental format.
 
 ## Installation
-The libraries we use for this methodology are listed in requirements.txt.
+The libraries we use for this methodology are listed in `requirements.txt`.
 
 ## Structure
 
-- src: contains an analysis notebook for each of the learner types.
-- results: contains the reference result notebooks mentioned in the paper. 
+- `src` : contains an analysis notebook for each of the learner types.
+- `results` : contains the reference result notebooks mentioned in the paper. 
