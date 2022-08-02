@@ -13,4 +13,4 @@ The libraries we use for this methodology are listed in `requirements.txt`.
 ## Structure
 
 - `src` : contains an analysis notebook for each of the learner types.
-- `results` : contains the reference result notebooks mentioned in the paper. 
+- `results` : contains the reference result notebooks referred to in the paper. 
